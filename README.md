@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanishQ10
-- 👀 I’m interested in ML, JAVA, PYTHON, API
+- 👀 I’m interested in ML, JAVA, PYTHON, API, Spring 
 - 🌱 I’m currently learning API Development
 - 💞️ I’m looking to collaborate on Spring
 - 📫 How to reach me ...
